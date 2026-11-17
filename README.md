@@ -8,6 +8,9 @@ __**Skateboard CAD Model | Onshape**__
 
 A 3D skateboard model designed and assembled using Onshape, a cloud-based computer-aided design (CAD) platform. Created as part of a high school engineering course during spring 2025, this project explores component modeling, proportional design, and mechanical assembly. The model uses dimensions proportional to a real skateboard and includes several individually modeled components assembled into a complete design.
 
+<img width="1905" height="908" alt="Model_Skateboard" src="https://github.com/user-attachments/assets/edf6a6f8-7415-4517-ba02-c825cd7d44e2" />
+
+
 **Model Components:**
 
 -Skateboard deck: Main body of the skateboard
