@@ -6,30 +6,28 @@ _**Skateboard CAD Model | Onshape**_
 
 **Project Overview**
 
-A 3D skateboard model designed and assembled using Onshape, a cloud-based computer-aided design (CAD) platform. Created as part of a high school engineering course during spring 2025, this project explores component modeling, proportional design, and mechanical assembly.
-
-The model uses dimensions proportional to a real skateboard and includes several individually modeled components assembled into a complete design.
+A 3D skateboard model designed and assembled using Onshape, a cloud-based computer-aided design (CAD) platform. Created as part of a high school engineering course during spring 2025, this project explores component modeling, proportional design, and mechanical assembly. The model uses dimensions proportional to a real skateboard and includes several individually modeled components assembled into a complete design.
 
 **Model Components:**
 
-Skateboard deck: Main body of the skateboard
+-Skateboard deck: Main body of the skateboard
 
-Wheels: Modeled as individual components
+-Wheels: Modeled as individual components
 
-Bearings: Included in the wheel assemblies
+-Bearings: Included in the wheel assemblies
 
-Axles: Components connecting the wheels to the skateboard
+-Axles: Components connecting the wheels to the skateboard
 
 **CAD Skills Demonstrated:**
-3D modeling using Onshape
+-3D modeling using Onshape
 
-Designing individual mechanical components
+-Designing individual mechanical components
 
-Applying proportional measurements
+-Applying proportional measurements
 
-Combining components into a complete assembly
+-Combining components into a complete assembly
 
-Visualizing a mechanical design in three dimensions
+-Visualizing a mechanical design in three dimensions
 
 **Project Preview:**
 View the CAD Model
@@ -42,10 +40,10 @@ https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model/blob/ma
 
 **Project Details:**
 
-Software: Onshape
+-Software: Onshape
 
-Course: High School Intro to Engineering (District-wide STEM Program)
+-Course: High School Intro to Engineering (District-wide STEM Program)
 
-Completed: June 2025
+-Completed: June 2025
 
-Project Type: 3D CAD Modeling and Assembly
+-Project Type: 3D CAD Modeling and Assembly
