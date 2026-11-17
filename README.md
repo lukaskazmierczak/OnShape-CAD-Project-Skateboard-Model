@@ -2,7 +2,7 @@ This design is a rudimentary model of a skateboard that has proportional measure
 The model contains several parts, such as the skateboard body, wheel, bearing, and axle, which are then assembled into the actual skateboard.
 
 
-_**Skateboard CAD Model | Onshape**_
+__**Skateboard CAD Model | Onshape**__
 
 **Project Overview**
 
