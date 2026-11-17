@@ -13,8 +13,11 @@ The model uses dimensions proportional to a real skateboard and includes several
 Model Components:
 
 Skateboard deck: Main body of the skateboard
+
 Wheels: Modeled as individual components
+
 Bearings: Included in the wheel assemblies
+
 Axles: Components connecting the wheels to the skateboard
 
 CAD Skills Demonstrated:
