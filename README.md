@@ -9,25 +9,18 @@ A 3D skateboard model designed and assembled using Onshape, a cloud-based comput
 
 **Model Components:**
 
--Skateboard deck: Main body of the skateboard
-
--Wheels: Modeled as individual components
-
--Bearings: Included in the wheel assemblies
-
--Axles: Components connecting the wheels to the skateboard
+-Skateboard deck: Main body of the skateboard <br>
+-Wheels: Modeled as individual components <br>
+-Bearings: Included in the wheel assemblies <br>
+-Axles: Components connecting the wheels to the skateboard <br>
 
 **CAD Skills Demonstrated:**
 
--3D modeling using Onshape
-
--Designing individual mechanical components
-
--Applying proportional measurements
-
--Combining components into a complete assembly
-
--Visualizing a mechanical design in three dimensions
+-3D modeling using Onshape  <br>
+-Designing individual mechanical components  <br>
+-Applying proportional measurements  <br>
+-Combining components into a complete assembly  <br>
+-Visualizing a mechanical design in three dimensions <br>
 
 **Project Preview:**
 
